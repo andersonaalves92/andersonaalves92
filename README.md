@@ -32,23 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersonaalves92&show_icons=true&theme=chartreuse-dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andersonaalves92&layout=compact&theme=chartreuse-dark&hide_border=true">
-</p>
-
----
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andersonaalves92/andersonaalves92/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
-
----
-
 ## 📈 O que eu faço
 
 - ✅ Análise de Dados
