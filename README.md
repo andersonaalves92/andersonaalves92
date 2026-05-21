@@ -35,9 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonaalves92&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonaalves92&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonaalves92&theme=github_dark"/>
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonaalves92&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonaalves92&theme=github_dark"/>
 </p>
 
 ---
