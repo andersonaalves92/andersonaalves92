@@ -57,6 +57,12 @@
 - ✅ SaaS & WhatsApp Automation
 
 ---
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andersonaalves92/andersonaalves92/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+---
 
 ## 🌐 Contato
 
